@@ -9,12 +9,15 @@ This script calculates how many days have passed since your last GitHub post and
 Edit the date: Change last_post_date to your actual last post date
 
 python
+```
 last_post_date = datetime.date(2024, 2, 10)  # ← Change this date!
+```
 🎯 Usage
 Run the script with Python:
-
 bash
+```
 python Simple Day Tracker.py
+```
 
 📊 Sample Output
 
