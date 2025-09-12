@@ -23,6 +23,7 @@ GitHub Post Tracker
 Today: 2024-02-15
 Last post: 2024-02-10
 Days since last post: 5
+
 ℹ️ It's been 5 days since your last post.
 🎨 Features
 ✅ Daily Tracking: Automatically calculates days since last post
