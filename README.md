@@ -46,15 +46,25 @@ Days since last post: 5
 Want to change the reminder intervals? Modify this section:
 
 python
+
 # Reminder logic - change these numbers as needed
+```
 if days_since_last_post == 0:
+
     print("✅ You posted today! Great job!")
+    
 elif days_since_last_post == 1:
+
     print("✅ You posted yesterday. Keep it up!")
+    
 elif days_since_last_post < 7:  # ← Change this value
+
     print(f"ℹ️ It's been {days_since_last_post} days since your last post.")
+    
 else:  # ← Change this value
+
     print(f"🚨 Time to post! It's been {days_since_last_post} days!")
+```
 💡 Pro Tip
 Schedule this script to run daily using:
 
