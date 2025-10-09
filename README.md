@@ -80,6 +80,9 @@ GitHub Actions (advanced) 🤖
 ## 📌 Today's Historical Fact
 <!-- DAILY_FACT -->
 ```plaintext
+📌 Daily Fact: Carloman I and Charlemagne are crowned kings of the Franks.
+```
+```plaintext
 📌 Daily Fact: Constantine I defeats Licinius, who loses his European territories.
 ```
 *✨ This fact updates automatically every day!*
