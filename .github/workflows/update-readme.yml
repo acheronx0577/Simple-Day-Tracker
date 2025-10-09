@@ -148,22 +148,33 @@ jobs:
       # Step 7: Commit and push changes
       - name: 🚀 Commit and Push Changes
         run: |
-          echo "📦 Staging changes..."
+          echo "🔄 Starting commit process..."
+          
+          # Ensure we're on main branch
+          git checkout main
+          
+          # Pull latest changes to avoid conflicts
+          git pull origin main
+          
+          # Check if README.md has actual changes
+          if git diff --quiet README.md; then
+            echo "✅ README.md has no changes - nothing to commit"
+            exit 0
+          fi
+          
+          echo "📦 Staging README.md..."
           git add README.md
           
-          if git diff --staged --quiet; then
-            echo "✅ No changes to commit"
-          else
-            echo "💾 Committing changes..."
-            git commit -m "📚 Update daily fact for ${{ steps.date.outputs.iso_date }}"
-            
-            echo "📤 Pushing to repository..."
-            git fetch origin
-            git merge origin/main --no-edit -m "Merge remote changes"
-            git push origin main
-            
-            echo "🎉 Successfully updated daily fact!"
-          fi
+          echo "💾 Creating commit..."
+          git commit -m "docs: Update daily fact for ${{ steps.date.outputs.iso_date }}"
+          
+          echo "🔍 Commit created:"
+          git log -1 --oneline
+          
+          echo "📤 Pushing changes..."
+          git push origin main
+          
+          echo "✅ Success! Changes committed and pushed."
 
       # Step 8: Summary
       - name: 📋 Summary
