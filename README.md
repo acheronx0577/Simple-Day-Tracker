@@ -79,43 +79,5 @@ GitHub Actions (advanced) 🤖
 
 ## 📌 Today's Historical Fact
 <!-- DAILY_FACT -->
-```plaintext
-📌 Daily Fact: On October 18, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On October 17, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On October 16, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On October 15, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On October 14, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On October 13, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On October 12, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On October 11, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On October 10, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On October 09, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: Carloman I and Charlemagne are crowned kings of the Franks.
-```
-```plaintext
-📌 Daily Fact: Carloman I and Charlemagne are crowned kings of the Franks.
-```
-```plaintext
-📌 Daily Fact: Constantine I defeats Licinius, who loses his European territories.
-```
+
 *✨ This fact updates automatically every day!*
