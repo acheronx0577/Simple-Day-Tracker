@@ -79,23 +79,5 @@ GitHub Actions (advanced) 🤖
 
 ## 📌 Today's Historical Fact
 <!-- DAILY_FACT -->
-```plaintext
-📌 Daily Fact: On December 03, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On December 02, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On December 01, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On November 30, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On November 29, history continues to unfold with remarkable events and discoveries.
-```
-```plaintext
-📌 Daily Fact: On November 28, history continues to unfold with remarkable events and discoveries.
-```
 
 *✨ This fact updates automatically every day!*
