@@ -1,5 +1,5 @@
 📅 GitHub Day Tracker
-A simple Python script to help you track your GitHub posting activity and maintain consistency.
+A simple Python script to help you track your GitHub posting activity and maicntain consistency.
 
 🚀 How It Works
 📋 Overview
